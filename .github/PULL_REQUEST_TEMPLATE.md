@@ -30,7 +30,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 <!-- Visual changes require screenshots -->
 
 
-## Steps to test
+## How to test
 <!-- 
 Please provide some steps for the reviewer to test your change. If you have wrote tests, you can mention that here instead.
 
